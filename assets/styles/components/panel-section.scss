@@ -1,0 +1,12 @@
+.panel-section {
+  background: $light-black;
+  padding: 24px 32px;
+  .panel-title {
+    color: $light-gray-blue;
+    font-size: 17px;
+    font-weight: 600;
+    span {
+      color: white;
+    }
+  }
+}
